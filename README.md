@@ -31,7 +31,8 @@ Akka Actors
 
 https://doc.akka.io/docs/akka/current/actors.html
 
-How Akka Works: 'At Most Once' Message Delivery – Hugh McKeehttps://www.lightbend.com/blog/how-akka-works-at-most-once-message-delivery
+How Akka Works: 'At Most Once' Message Delivery – Hugh McKee
+https://www.lightbend.com/blog/how-akka-works-at-most-once-message-delivery
 
 Reactive Microsystems - The Evolution Of Microservices At Scale: Free O'Reilly Report By Jonas Bonér
 https://www.lightbend.com/blog/reactive-microsystems-the-evolution-of-microservices-at-scale-free-oreilly-report-by-jonas-boner
