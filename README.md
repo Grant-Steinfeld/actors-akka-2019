@@ -14,7 +14,7 @@ IBM Developer Advocate JVM & Blockchain
 
 We presented the 6 states an Actor can be in when in an Akka cluster
 
-![Akka Actor states in Akka cluster]( https://gph.is/g/aRXzMlJ )
+![Akka Actor states in Akka cluster](https://media.giphy.com/media/U7USF9Wj2qhcMs5dde/giphy.gif)
 Akka Actor states in Akka cluster
 
 
