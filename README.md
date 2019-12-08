@@ -1,13 +1,14 @@
 # A gentle introduction to Akka and the Actor Model of Compuation
 
-## PRESENTATION – Vermont Code Camp 2019
+## WEBINAR - Advocates Teach Advocates - December 2019
+## PRESENTATION – Vermont Code Camp - October 2019
 ```
 Mary Grygleski 
 IBM Developer Advocate Java & Reactive
 @mgrygles
 
 Grant Steinfeld 
-IBM Developer Advocate JVM & Blockchain
+IBM Developer Advocate Cognitive Applications, JVM & Blockchain
 @gsteinfeld
 
 ```
@@ -55,9 +56,6 @@ https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf - Greg Young
 
 A new adaptive accrual failure detector for Akka - Based on The Φ Accrual Failure Detector 
 https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/
-
-Minishift
-https://www.okd.io/minishift/
 
 IBM OpenShift
 https://www.ibm.com/cloud/openshift
